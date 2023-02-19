@@ -1,2 +1,5 @@
 Git initialized
 git status
+git commit -a -m "first commit"
+git push origin master
+git add .
